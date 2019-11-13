@@ -1,11 +1,11 @@
 # Site settings
-author: Nathaniel P
-title: 
+author: Nathan Peirson
+title: Seeking the Signal
 header-img: img/home-bg.png
 email: peirson.n@gmail.com
-copyright_name: Nathaniel P
+copyright_name: Nathan Peirson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  an eigenblog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  npeirson
